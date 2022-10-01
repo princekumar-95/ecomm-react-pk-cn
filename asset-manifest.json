@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ecomm-react-pk-cn/static/css/main.32609a75.css",
+    "main.js": "/ecomm-react-pk-cn/static/js/main.edca8095.js",
+    "index.html": "/ecomm-react-pk-cn/index.html",
+    "main.32609a75.css.map": "/ecomm-react-pk-cn/static/css/main.32609a75.css.map",
+    "main.edca8095.js.map": "/ecomm-react-pk-cn/static/js/main.edca8095.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32609a75.css",
+    "static/js/main.edca8095.js"
+  ]
+}
